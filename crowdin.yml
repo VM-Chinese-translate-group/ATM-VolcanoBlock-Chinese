@@ -1,7 +1,0 @@
-files:
-  - source: /Patch-Pack-CN/config
-    translation: '%original_path%/%original_file_name%'
-  - source: /Patch-Pack-CN/kubejs
-    transaltion: '%original_path%/%original_file_name%'
-  - source: /Patch-Pack-CN/packmenu
-    translation: '%original_path%/zh_cn.json'
